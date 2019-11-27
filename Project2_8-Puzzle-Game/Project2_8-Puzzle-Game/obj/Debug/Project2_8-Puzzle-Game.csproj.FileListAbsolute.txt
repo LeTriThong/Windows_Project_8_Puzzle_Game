@@ -1,0 +1,15 @@
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\bin\Debug\Project2_8-Puzzle-Game.exe.config
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\bin\Debug\Project2_8-Puzzle-Game.exe
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\bin\Debug\Project2_8-Puzzle-Game.pdb
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.csprojAssemblyReference.cache
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\MainWindow.g.cs
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\App.g.cs
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game_MarkupCompile.cache
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game_MarkupCompile.lref
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\MainWindow.baml
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.g.resources
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8_Puzzle_Game.Properties.Resources.resources
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.csproj.GenerateResource.cache
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.exe
+C:\Users\DELL-PC\source\repos\Project2_8-Puzzle-Game\Project2_8-Puzzle-Game\obj\Debug\Project2_8-Puzzle-Game.pdb
