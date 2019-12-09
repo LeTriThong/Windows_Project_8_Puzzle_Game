@@ -31,8 +31,8 @@ namespace Project2_8_Puzzle_Game
         const int startY = 30;  //Tọa độ bắt đầu bức ảnh lớn theo chiều dọc
         const int square_length = 400;  //Độ dài cạnh bức ảnh lớn
         const int preview_length = 200; //Độ dài cạnh bức ảnh preview
-        const int time_allowed = 90;   //Thời gian chơi (tính theo giây)
-        const int pre_move = 15;
+        const int time_allowed = 180;   //Thời gian chơi (tính theo giây)
+        const int pre_move = 300;
         Random rng = new Random();
 
         //Hằng số thể hiện mũi tên
