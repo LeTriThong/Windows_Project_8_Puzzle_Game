@@ -3,6 +3,8 @@ Danh sách thành viên:
 - 1712799 - Lê Trí Thông
 - 1712813 - Nguyễn Thanh Tiến
 ..................................
+Video demo: https://www.youtube.com/watch?v=zi3AkCO1-ag
+..................................
 Lưu ý:
 - Game không thể lưu ảnh mặc định có ở đầu trò chơi, nếu muốn lưu ảnh đó thì có thể tìm ảnh sample.jpg
 - Không nên kéo thả hình quá nhanh vì lệnh snap ảnh không thể thực hiện kịp
